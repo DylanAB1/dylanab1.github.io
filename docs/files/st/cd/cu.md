@@ -10,3 +10,4 @@
 |7|bold|Bold Function|Unknown|**bold**|
 |8|italic|Italic function|Unkown|*italic*|
 |9|bolditalic|Bold Italic Function|Unknown|***bi***|
+|10|scr(code)|DPSCRIPT Code|unknown|```code```|
