@@ -22,8 +22,16 @@ Added Cameras and Main Game
 
 still no animatronics
 
-## bugs
+added sounds
 
-1. #0d door buttons that are not supposed to show up now appears, this can be fixed by adding a if condition so both of the open and close buttons dont show up. close a door and go up to the cameras and go back and move around very fast
+## 0.1.7
+
+Fixed #0d door buttons that are not supposed to show up now appears, this can be fixed by adding a if condition so both of the open and close buttons dont show up. close a door and go up to the cameras and go back and move around very fast
+
+added night system
+
+new 12 am to 8 am cycle
+
+## bugs
 
 2. #0e too long to start up the game -_-
