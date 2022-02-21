@@ -59,7 +59,7 @@ Xbox Gamepads Cannot be Adjusted
 The Cursor Switch is a switch that can turn on the cursor in some games,
 unfortunately You cant do that in turbowarp or the turbowarp package manager so use the right stick to use the cursor
 
-### XPEW 360 1.1
+### XPEW 361
 
 Xbox Gamepads CAN be Adjusted only on development
 
