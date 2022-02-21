@@ -6,10 +6,11 @@ This File is an Documentation about the types of Xpews And Limitations (Includin
 
 |Name|FPS Limit|Slots|Slot Manufacturer|Controllers|Uses Internet?|Bluetooth?|Game/Medium|Color Depth|Vector2?|Formats|
 |----|---------|-----|-----------------|-----------|--------------|----------|-----------|-----------|--------|-------|
-|XPew 360|30|DefaultSlot, Slot A, Slot B|USB Type-A|Xpew 360 Built-In Controller, Xbox Gamepad|Translations and Speech|Yes|SB3|8-Bit GS|No|.xp|
-|XPew 360 1.1|30|Slot A, Slot B|USB Type-A|Xbox Gamepad. (No Built-In Controller)|Translations and Speech|Yes|SB3, EXE, MACOS, DEB|24-Bit|Yes|.xpc|
+|XPew 360|24|DefaultSlot, Slot A, Slot B|USB Type-A|Xpew 360 Built-In Controller, Xbox Gamepad|Translations and Speech|Yes|SB3|8-Bit GS|No|.xp|
+|XPew 361|30|Slot A, Slot B|USB Type-A|Xbox Gamepad. (No Built-In Controller)|Translations and Speech|Yes|SB3, EXE, MACOS, DEB|24-Bit|Yes|.xp1|
 |Xpew 360 Lite|15||||Translations And Speech|Audio Only|SB3|8-Bit|Yes|.xpl|
 |Xpew 360 MPEG|15||||No|Audio Only|SB3, HTML, MP4|8-Bit|Yes|.MP4, JS (.html, .js, .css), .xpeg|
+|Xpew 362|46|P1 Slot|1Port|XP2 GamePad, XP2 Sensor Remote|Yes|Yes (no HID/Wiimote)|SB3, HTML, EXE, MACOS, DEB|24-Bit|Oh Boy YES|.tbw, .xp2
 
 ## Buttons/Sticks
 
