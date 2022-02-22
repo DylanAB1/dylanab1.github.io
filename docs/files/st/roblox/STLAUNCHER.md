@@ -12,7 +12,7 @@ you can access to
 
 you can get these codes
 
-0 = successful close, 1 = No Close At all, -1 = unsuccessful close
+0 = successful close, 1 = Never Kicks Player And Was Printed To Developer Console or Printed in UI, -1 = unsuccessful close
 
 |Code|Description|errortype|appclose|
 |-|-|-|-|
