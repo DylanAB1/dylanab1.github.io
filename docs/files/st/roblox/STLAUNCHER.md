@@ -20,3 +20,4 @@ you can get these codes
 |E01|If your friend is on Website It Occurs|Warn|1|
 |E02|You have to be VIP to access VIP Type stuff|Warn|1|
 |E03|Unknown Kick|Fatal|-1|
+|E04|Product Purchase has Failed|Fatal|1|
