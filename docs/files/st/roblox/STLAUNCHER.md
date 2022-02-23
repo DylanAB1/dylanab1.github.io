@@ -21,3 +21,4 @@ you can get these codes
 |E02|You have to be VIP to access VIP Type stuff|Warn|1|
 |E03|Unknown Kick|Fatal|-1|
 |E04|Product Purchase has Failed|Fatal/DataStoreService Error|1|
+|E05|Product Purchase has Granted|Info/MarketplaceService Product|1|
