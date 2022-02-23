@@ -17,7 +17,7 @@ you can get these codes
 |Code|Description|errortype|appclose|
 |-|-|-|-|
 |E00|just a Close|Info/Warn|0|
-|E01|If your friend is on Website It Occurs|Warn|1|
+|E01|Your Friend is on the roblox Website|Warn|1|
 |E02|You have to be VIP to access VIP Type stuff|Warn|1|
 |E03|Unknown Kick|Fatal|-1|
 |E04|Product Purchase has Failed|Fatal/DataStoreService Error|1|
