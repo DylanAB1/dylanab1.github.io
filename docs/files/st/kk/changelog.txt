@@ -1,8 +1,0 @@
-KK
-
-1.7.3 11-23-21 (Third and Last 18 Snapshot)
-
-Inproved Jumpscare Sounds
-There is a Bug In The Sound Called ???, and cannot find author of 32 bit PCM
-
-Coming Soon For New Sound Improvements
